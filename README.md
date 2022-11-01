@@ -1,5 +1,5 @@
 # MSE-PYTHON
-Bài Tập 1
+Bài Tập 1:
 https://colab.research.google.com/github/Quang-Nguyen-Van/MSE-PYTHON/blob/main/BaiTap1.ipynb
 
 Bài Tập 2:
@@ -7,8 +7,9 @@ https://colab.research.google.com/github/Quang-Nguyen-Van/MSE-PYTHON/blob/main/B
 
 
 Bài Tập 3:
-
+https://colab.research.google.com/github/Quang-Nguyen-Van/MSE-PYTHON/blob/main/BaiTap3.ipynb
 
 
 Assignment:
+https://colab.research.google.com/github/Quang-Nguyen-Van/MSE-PYTHON/blob/main/Assignment.ipynb
 
